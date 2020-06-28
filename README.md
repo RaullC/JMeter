@@ -1,7 +1,7 @@
 # Jmeter
 
 
-## Delete Service Test
+## HTTP Test Script Recorder
 ![Delete Test](JMeter1.png)
 
 ## Delete Service Test
