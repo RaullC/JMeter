@@ -4,11 +4,11 @@
 ## HTTP Test Script Recorder
 ![Delete Test](JMeter1.png)
 
-## Delete Service Test
+## Recording Controller
 ![Delete Test](JMeter2.png)
 
-## Delete Service Test
+## HTTP Request Performance Test
 ![Delete Test](Jmeter3.png)
 
-## Delete Service Test
+## Response Data
 ![Delete Test](Jmeter4.png)
